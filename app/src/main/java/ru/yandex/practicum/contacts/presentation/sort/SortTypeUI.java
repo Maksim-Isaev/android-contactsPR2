@@ -6,7 +6,7 @@ import ru.yandex.practicum.contacts.presentation.base.ListDiffInterface;
 import ru.yandex.practicum.contacts.presentation.main.ContactUi;
 import ru.yandex.practicum.contacts.presentation.sort.model.SortType;
 
-public abstract class SortTypeUI implements ListDiffInterface<SortTypeUI> {
+public class SortTypeUI implements ListDiffInterface<SortTypeUI> {
 
 
 

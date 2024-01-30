@@ -8,7 +8,7 @@ import ru.yandex.practicum.contacts.model.ContactType;
 import ru.yandex.practicum.contacts.presentation.base.ListDiffInterface;
 import ru.yandex.practicum.contacts.presentation.filter.model.FilterContactTypeUi;
 
-public abstract class ContactUi implements ListDiffInterface<ContactUi> {
+public class ContactUi implements ListDiffInterface<ContactUi> {
 
 
     private final String name;
